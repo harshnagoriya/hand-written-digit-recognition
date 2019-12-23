@@ -1,0 +1,9 @@
+Following libraries
+
+pip install tflearn
+pip install tensorflow
+pip install pandas
+pip install numpy
+pip install matpplotlib
+pip install cv2
+pip install scikit-image
