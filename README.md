@@ -1,6 +1,6 @@
 <b>A Sample ML Project that recognizes handwritten single digits, Proudly created by Harsh Nagoriya</b>
 
-The working Javascript model on HTML is hosted on 
+The working Javascript model on HTML is hosted on https://is.gd/hsndigit
 
 To train the model follow the steps:
   1. Extract the testing and training dataset
