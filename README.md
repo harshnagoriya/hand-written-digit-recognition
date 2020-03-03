@@ -13,6 +13,5 @@ To train the model follow the steps:
 	<br></t>Harsh Nagoriya
   <br></t>Mrunal Dhumne
   <br></t>Dhara Nayak
-  <br></t>Jenil Chandibhamar
   <br></t>Rishit Shah
   <br></t>Raj Shah
